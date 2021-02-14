@@ -1,3 +1,5 @@
 .DS_Store
 chatjpa/.*
 chatjpa/build/
+chatServer/.*
+chatServer/build/
