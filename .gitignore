@@ -3,3 +3,6 @@ chatjpa/.*
 chatjpa/build/
 chatServer/.*
 chatServer/build/
+client/.*
+client/bin/
+client/src/chatData/*
